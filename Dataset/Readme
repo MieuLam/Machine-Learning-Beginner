@@ -1,2 +1,0 @@
-#To seperate the raw dataset into a table we use
-data = pd.read_csv(r"file_name", sep=';')
